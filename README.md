@@ -1,5 +1,5 @@
 # directadmin-spamassassin-block-tlds
-List of TLDs mostly used for spam. These are almost never valid emails so why not block them inmediately?
+List of TLDs mostly used for spam. These are almost never valid emails so why not block them inmediately? Do you have a suggestion for another TLD? Open a new issue!
 
 ## Usage
 
