@@ -50,7 +50,6 @@ List of TLDs mostly used for spam. These are almost never valid emails so why no
 *.news
 *.ninja
 *.nyc
-*.org
 *.party
 *.photography
 *.pt
