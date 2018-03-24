@@ -21,12 +21,15 @@ List of TLDs mostly used for spam. These are almost never valid emails so why no
 *.bg
 *.bid
 *.biz
+*.biz.ua
 *.br
 *.camera
 *.cc
 *.click
 *.club
 *.co
+*.co.ua
+*.co.in
 *.co.mz
 *.co.nz
 *.com.au
