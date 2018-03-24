@@ -1,4 +1,4 @@
-# directadmin-spamassassin-block-tlds
+# DirectAdmin SpamAssassin - Block emails that are send from specific TLDs
 List of TLDs mostly used for spam. These are almost never valid emails so why not block them inmediately? Do you have a suggestion for another TLD? Open a new issue!
 
 ## Usage
