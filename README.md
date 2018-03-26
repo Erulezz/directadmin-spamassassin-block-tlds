@@ -47,6 +47,7 @@ E-mails are rejected with the following error message;
 *.faith
 *.global
 *.guru
+*.gq
 *.help
 *.in
 *.info
@@ -55,6 +56,7 @@ E-mails are rejected with the following error message;
 *.lol
 *.loan
 *.media
+*.men
 *.news
 *.ninja
 *.nyc
@@ -77,6 +79,7 @@ E-mails are rejected with the following error message;
 *.uno
 *.us
 *.vn
+*.webcam
 *.website
 *.win
 *.work
