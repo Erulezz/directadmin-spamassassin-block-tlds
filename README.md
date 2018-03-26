@@ -19,7 +19,7 @@ E-mails are rejected with the following error message;
 - Place the list in the "Email Blacklist" textfield
 - Done!
 
-## TLDs:
+## Spam TLDs:
 
 ```
 *.ar
@@ -85,3 +85,6 @@ E-mails are rejected with the following error message;
 *.work
 *.xyz
 ```
+
+## References
+https://www.spamhaus.org/statistics/tlds/
