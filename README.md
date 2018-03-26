@@ -1,17 +1,22 @@
 # DirectAdmin SpamAssassin - Block emails that are send from specific TLDs
-List of TLDs mostly used for spam. These are almost never valid emails so why not block them inmediately? Do you have a suggestion for another TLD? Open a new issue!
+Comprehensive list of TLDs mostly used for spam. These are almost never valid emails so why not block them inmediately? Do you have a suggestion for another TLD? Open a new issue!
+
+E-mails are rejected with the following error message;
+
+> 554 denied. 5.7.1 Domain Blocked due to SPAM
 
 ## Usage
 
-### Method 1 - For a specific user
+### Method 1 - Globally (preferred)
+- ```nano /etc/virtual/blacklist_domains```
+- Copy & paste the list below, change it based on your situation
+- Restart exim
+- Done!
+
+### Method 2 - For a specific user
 - Log in as a DirectAdmin user
 - Go to SpamAssassin Setup
 - Place the list in the "Email Blacklist" textfield
-- Done!
-
-### Method 2 - Globally
-- ```nano /etc/virtual/blacklist_domains```
-- Copy & paste the list below 
 - Done!
 
 ## TLDs:
