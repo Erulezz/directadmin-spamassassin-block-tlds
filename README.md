@@ -1,5 +1,5 @@
 # DirectAdmin SpamAssassin - Block emails that are send from specific TLDs
-Comprehensive list of TLDs mostly used for spam. These are almost never valid emails so why not block them inmediately? Do you have a suggestion for another TLD? Open a new issue!
+Comprehensive list of TLDs mostly used for spam. These are almost never valid emails so why not block them inmediately before SpamAssassin? Do you have a suggestion for another TLD? Open a new issue!
 
 E-mails are rejected with the following error message;
 
@@ -9,7 +9,7 @@ E-mails are rejected with the following error message;
 
 ### Method 1 - Globally (preferred)
 - ```nano /etc/virtual/blacklist_domains```
-- Copy & paste the list below, change it based on your situation
+- Copy & paste the list below, **change it based on your situation**
 - Restart exim
 - Done!
 
