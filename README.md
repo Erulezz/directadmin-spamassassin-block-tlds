@@ -22,6 +22,7 @@ E-mails are rejected with the following error message;
 ## Spam TLDs:
 
 ```
+*.accountant
 *.ar
 *.bg
 *.bid
@@ -30,6 +31,7 @@ E-mails are rejected with the following error message;
 *.br
 *.camera
 *.cc
+*.cf
 *.click
 *.club
 *.co
@@ -42,9 +44,13 @@ E-mails are rejected with the following error message;
 *.computer
 *.cricket
 *.date
+*.diet
+*.download
 *.email
 *.es
 *.faith
+*.ga
+*.gdn
 *.global
 *.guru
 *.gq
@@ -65,6 +71,7 @@ E-mails are rejected with the following error message;
 *.pt
 *.pw
 *.racing
+*.reise
 *.review
 *.rocks
 *.ru
@@ -75,7 +82,9 @@ E-mails are rejected with the following error message;
 *.stream
 *.tech
 *.today
+*.top
 *.tr
+*.trade
 *.uno
 *.us
 *.vn
